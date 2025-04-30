@@ -7,6 +7,9 @@ contributor:
     deathdate: 1969
     gutenberg_agent_id: '58159'
     url: http://www.gutenberg.org/2009/agents/58159
+covers:
+- cover_type: archival
+  image_path: 75826-h/images/cover.jpg
 creator:
   author:
     agent_name: Tomlinson, H. M. (Henry Major)
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5787
     wikipedia: https://en.wikipedia.org/wiki/H._M._Tomlinson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75826#Gifts-of-fortune-and-hints-for-those-about-to-travel
 edition_note: First edition.
 gutenberg_issued: '2025-04-09'
 gutenberg_type: Text
